@@ -424,5 +424,6 @@ void extract(int PakFile, Entry entry, char *filename) {
 	}
 	
 	close(OutFile);
-	return;
-}
+	return
+}1.cc game for_peace upack.c-o game_for peace_upack.exe -lz-lzstd -liconv -02
+	
